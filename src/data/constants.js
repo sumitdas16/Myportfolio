@@ -218,8 +218,8 @@ export const projects = [
       "JAVASCRIPT"
     ],
     category: "frontend app",
-    github: "",
-    webapp: "",
+    github: "https://github.com/sumitdas16/Myportfolio",
+    webapp: "https://sumitdas16.github.io/Myportfolio/",
   },
   {
     id: 2,
