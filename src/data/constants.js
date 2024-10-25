@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/sumitdas16",
   resume:
-    "https://drive.google.com/file/d/12-0ymwSayqtvsihfvZW_lfDPN-3XPfXn/view?usp=drive_link",
+    "https://drive.google.com/file/d/15NMLF6WiKxlR27SFsqdvaxyoNCjq3HGI/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/sumitdas16/",
   twitter: "",
   insta: "https://www.instagram.com/myself_sumit_/",
